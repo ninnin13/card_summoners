@@ -1,0 +1,36 @@
+Tit{
+    font: bold 50px "ＭＳ 明朝"; 
+    display:inline-block;
+    position: absolute;
+}
+#point{
+    left: 400px;
+    visibility: hidden;
+}
+#times{
+    left: 600px;
+}
+#game_board{
+    top: 100px;
+   /* left:500px;*/
+    position: absolute;
+}
+#text{
+    font: bold 100px "ＭＳ 明朝"; 
+    color: red;
+    top: 200px;
+    left: 50px;
+    position: absolute;
+    visibility: hidden;
+}
+#text2{
+    font: bold 100px "ＭＳ 明朝"; 
+    color: red;
+    top: 200px;
+    left: 50px;
+    position: absolute;
+    visibility: hidden;
+}
+#game{
+    visibility: hidden;
+}
